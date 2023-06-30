@@ -24,6 +24,8 @@ To make sure that the program will work you have to install python 3.9 and the l
 
 ## Examples
 
+![Screenshot 2023-06-29 223102](https://github.com/matheus-g-a/credit-risk-classification/assets/75823252/741a8b5d-2cb5-4f0e-886f-d52eab2cad83)
+![Screenshot 2023-06-29 223124](https://github.com/matheus-g-a/credit-risk-classification/assets/75823252/c113472a-1abc-4b91-b185-4bcea85b6247)
 
 
 
